@@ -1,3 +1,3 @@
-# PFPGrupo1
+# READ ME
 
-Repositorio utilizado para el trabajo final de Sistemas de información.
+Este repositorio ha sido creado 
